@@ -2,7 +2,7 @@ syntax = "proto3";
 import "google/protobuf/empty.proto";
 import "google/protobuf/Timestamp.proto";
 
-option csharp_namespace = "GrpcServerApp.Protos";
+option csharp_namespace = "GrpcClientLib.Protos";
 
 service EmployeeService {
 	rpc GetAllEmployee(google.protobuf.Empty) returns (ResponseMessage);
