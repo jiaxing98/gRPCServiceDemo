@@ -1,0 +1,5 @@
+reference:
+
+1. https://www.c-sharpcorner.com/article/create-grpc-server-application-with-net-core/
+2. https://www.c-sharpcorner.com/article/create-grpc-consolse-and-workerservice-client-applications/
+3. https://www.codemag.com/Article/2212071/A-Deep-Dive-into-Working-with-gRPC-in-.NET-6
